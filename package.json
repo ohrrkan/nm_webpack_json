@@ -1,0 +1,22 @@
+{
+  "name": "nm_webpack_json",
+  "version": "1.0.0",
+  "description": "Loader of images from json file for webpack",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohrrkan/nm_webpack_json.git"
+  },
+  "keywords": [
+    "json",
+    "webmanifest",
+    "image",
+    "webpack"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohrrkan/nm_webpack_json/issues"
+  },
+  "homepage": "https://github.com/ohrrkan/nm_webpack_json#readme"
+}
